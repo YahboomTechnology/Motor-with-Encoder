@@ -1,1 +1,0 @@
-The hardware wiring diagram shows the STM32F103C8T6 wiring diagram, STM32F103RCT6 all wiring is the same, according to the corresponding pin connection.
